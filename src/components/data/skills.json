@@ -1,0 +1,38 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/javascript.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "java",
+    "imageSrc": "skills/java.png"
+  },
+  {
+    "title":"CSS3",
+    "imageSrc":"skills/CSS3.png"
+  },
+  {
+    "title": "Bootstrap",
+    "imageSrc": "skills/bootstrap.png"
+  },
+  {
+    "title": "Jquery",
+    "imageSrc": "skills/jquery.png"
+  },
+  {
+    "title": "HTML5",
+    "imageSrc": "skills/HTML5.png"
+  }
+]

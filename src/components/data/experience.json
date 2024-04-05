@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "role": "Service Desk Associate",
+    "organisation": "PRECISION INFOMATICS",
+    "startDate": "JUNE,2023",
+    "endDate": "Present",
+    "location": " Belapur",
+    "experiences": [
+      "Worked on Google Gmail",
+      "Worked with the Google Bard Team"
+    ],
+    "imageSrc": "company/google.png"
+  },
+  {
+    "id": 2,
+    "role": "Associate Engineer",
+    "organisation": "QUESS CORP LIMITED",
+    "startDate": "MARCH, 2023",
+    "endDate": "JUNE,2023",
+    "location": "Vashi",
+    "experiences": [
+      "Worked on Windows 10 terminal",
+      "Worked on Window 11 Upcoming features"
+    ],
+    "imageSrc": "company/microsoft.png"
+  },
+  {
+    "id": 3,
+    "role": "GIS Data Specialist",
+    "organisation": "HERE TECHNOLOGY",
+    "startDate": "JUNE, 2021",
+    "endDate": "JUNE, 2022",
+    "location":"Airoli",
+    "experiences": [
+      "Worked on Nextflix payment system",
+      "Helped to create UI for video player"
+    ],
+    "imageSrc": "company/netflix.png"
+  }
+]
