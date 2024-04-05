@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/my-reactportfolio/static/css/main.c48dbd38.css",
+    "main.js": "/my-reactportfolio/static/js/main.7e9fde5c.js",
+    "static/media/Soni jaiswal (3).pdf": "/my-reactportfolio/static/media/Soni jaiswal (3).c52ed3c92bbad8cfbc8c.pdf",
+    "index.html": "/my-reactportfolio/index.html",
+    "main.c48dbd38.css.map": "/my-reactportfolio/static/css/main.c48dbd38.css.map",
+    "main.7e9fde5c.js.map": "/my-reactportfolio/static/js/main.7e9fde5c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c48dbd38.css",
+    "static/js/main.7e9fde5c.js"
+  ]
+}
